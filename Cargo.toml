@@ -1,0 +1,11 @@
+[package]
+name = "cryptun"
+version = "0.0.1"
+edition = "2021"
+
+#Required metadata
+description = "a privacy oriented tunneling network layer"
+license = "MIT OR Apache-2.0"
+
+
+[dependencies]
